@@ -1,0 +1,23 @@
+﻿.header{
+    text-align: center;
+}
+.content{
+    text-align: center;
+}
+.button-blue {
+    background-color: #68cef6;
+    border: none;
+    padding: 8px;
+    color: #fff;
+}
+.button-blue:hover{
+    cursor: pointer;
+    background-color: #56cdf5;
+}
+.padding{
+    padding: 4px;
+}
+.description{
+    text-align: center;
+    color: #434343;
+}
